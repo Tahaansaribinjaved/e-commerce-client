@@ -44,8 +44,8 @@ const HomePage = () => {
           <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://dummyimage.com/423x263" />
         </a>
         <div class="mt-4">
-          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-          <h2 class="text-gray-900 title-font text-lg font-medium">The 400 Blows</h2>
+          <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Electronics</h3>
+          <h2 class="text-gray-900 title-font text-lg font-medium">Bulb</h2>
           <p class="mt-1">$18.40</p>
         </div>
       </div>

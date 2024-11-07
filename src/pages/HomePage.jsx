@@ -46,7 +46,7 @@ const HomePage = () => {
         <div class="mt-4">
           <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Electronics</h3>
           <h2 class="text-gray-900 title-font text-lg font-medium">Bulb</h2>
-          <p class="mt-1">$18.40</p>
+          <p class="mt-1">$38.40</p>
         </div>
       </div>
       <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
